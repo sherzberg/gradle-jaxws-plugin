@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/tklein/gradle-jaxws-plugin.png)](https://travis-ci.org/tklein/gradle-jaxws-plugin)
+[![Build Status](https://travis-ci.org/sherzberg/gradle-jaxws-plugin.png)](https://travis-ci.org/sherzberg/gradle-jaxws-plugin)
 
 gradle-jaxws-plugin
 ===================
