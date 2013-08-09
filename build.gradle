@@ -5,7 +5,7 @@ apply plugin: 'maven'
 
 dependencies {
     compile gradleApi()
-    groovy localGroovy()
+    compile localGroovy()
 }
 
 group = 'eu.schnuckelig.gradle'
